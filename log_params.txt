@@ -1,0 +1,28 @@
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 09:24:21","idpanier":604,"montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0963868fe2b"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 09:27:00","idpanier":605,"montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a096563e4acb"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 10:53:40","idpanier":606,"montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0979b42d997"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 10:54:52","idpanier":607,"montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0979fc583fb"}
+
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 10:57:54","idpanier":608,"montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a097aa90cb31"} ---> tsy nety
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:02:14","idpanier":"608","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a097aa90cb31"} ---> tsy nety
+
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:05:09","idpanier":"609","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a097c5d85503"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:16:41","idpanier":"610","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a097f111628b"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:18:53","idpanier":"611","montant":"2.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a097f936f96b"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:21:04","idpanier":"612","montant":"3.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a098019067c7"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:24:24","idpanier":"613","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0980dec0d59"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:31:18","idpanier":"616","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a09827ddd571"}
+
+
+***************manomboka eto sans redirection**********************
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:35:32","idpanier":617,"montant":"2.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a098384ba323"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:37:30","idpanier":"618","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0983fa00c99"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:41:08","idpanier":"620","montant":"2.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0984d3c0fc7"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:43:44","idpanier":"621","montant":"2.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0985703ad96"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:52:11","idpanier":"622","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a09876b43a26"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:53:28","idpanier":"623","montant":"2.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a0987b86f5a5"}---> tsy nety
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:56:52","idpanier":"624","montant":"3.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a098883d2676"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 11:59:50","idpanier":"625","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a09893680d29"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 12:04:58","idpanier":"626","montant":"3.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a098a6a52991"}----> tsy nety
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 12:07:34","idpanier":"627","montant":"4.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a098b063154f"}
+{"unitemonetaire":"Ar","adresseip":"41.63.139.181","date":"2017-11-13 12:08:52","idpanier":"628","montant":"1.00","nom":"Toavina Ralambosoa","reference":"wc_order_5a098b54893fb"}
